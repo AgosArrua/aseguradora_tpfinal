@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1605368633 source:c:\users\administrator\onedrive - inspt.utn.edu.ar\primer a—o\programacion 1\tp final\tpfinal\funcionescarga.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Datos.h"
+	"FuncionesCarga.h"
+
+1605368086 c:\users\administrator\onedrive - inspt.utn.edu.ar\primer a—o\programacion 1\tp final\tpfinal\funcionescarga.h
+
+1605368086 c:\users\administrator\onedrive - inspt.utn.edu.ar\primer a—o\programacion 1\tp final\tpfinal\datos.h
+
+1606677851 source:c:\users\administrator\onedrive - inspt.utn.edu.ar\primer a—o\programacion 1\tp final\tpfinal\funcionesinformes.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Datos.h"
+	"FuncionesInformes.h"
+
+1605368086 c:\users\administrator\onedrive - inspt.utn.edu.ar\primer a—o\programacion 1\tp final\tpfinal\funcionesinformes.h
+
+1605368086 source:c:\users\administrator\onedrive - inspt.utn.edu.ar\primer a—o\programacion 1\tp final\tpfinal\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Datos.h"
+	"FuncionesCarga.h"
+	"FuncionesInformes.h"
+
